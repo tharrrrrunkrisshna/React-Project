@@ -1,0 +1,32 @@
+.Navbar {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(245, 201, 79);
+    display: flex;
+    flex-direction: row;
+  }
+
+  .Navbar .Left{
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+  }
+  
+  .Navbar .Left img {
+    width: 250px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 40%;
+  }
+.steps{
+    background-color: rgb(157, 230, 146);
+    text-align: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+.ht{
+    color: aquamarine;
+}
+  
